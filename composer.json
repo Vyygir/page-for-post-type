@@ -1,8 +1,8 @@
 {
-	"name": "humanmade/page-for-post-type",
+	"name": "vyygir/page-for-post-type",
 	"description": "Allows you to set pages for any custom post type archive",
 	"homepage": "https://github.com/humanmade/page-for-post-type",
-	"version": "0.2.0",
+	"version": "0.3.0",
 	"keywords": [
 		"wordpress"
 	],
@@ -12,13 +12,18 @@
 			"name": "Human Made Limited",
 			"email": "support@humanmade.com",
 			"homepage": "https://humanmade.com"
+		},
+		{
+			"name": "Vyygir",
+			"email": "open.source@vyygir.me",
+			"homepage": "https://vyygir.me"
 		}
 	],
 	"support": {
-		"issues": "https://github.com/humanmade/page-for-post-type/issues",
-		"source": "https://github.com/humanmade/page-for-post-type"
+		"issues": "https://github.com/vyygir/page-for-post-type/issues",
+		"source": "https://github.com/vyygir/page-for-post-type"
 	},
-	"type": "wordpress-plugin",
+	"type": "wordpress-muplugin",
 	"require": {
 		"composer/installers": "~1.0"
 	 }
